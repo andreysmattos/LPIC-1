@@ -1,6 +1,6 @@
 # Basic comamnd line
 
-# Comando: `tty`
+# Command: `tty`
 The most basic use of the tty command is to display the name of the current terminal.
 
 ```
@@ -14,3 +14,23 @@ This command tells you what file name connected to standard input. The term **pt
 $ tty
 /dev/tty1
 ```
+
+# Command: `whoami`
+It displays the username of the current user when this command is invoked.
+
+```
+$ whoami
+andrey
+```
+
+
+# Command: `pwd`
+Display the path name of the working directory. 
+current working directory = present working directory
+
+# Command: `ls`
+Display the contents of a directory.
+
+
+# Command: `exit`
+exit command in linux is used to exit the shell where it is currently running.
