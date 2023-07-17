@@ -88,5 +88,7 @@ Temporary files. Oftem not preserved between system reboots and may be serverely
 - Files under this directory are deleted when the system is rebboted.
 
 
+
+
 PRECISA continuar:
 https://www.geeksforgeeks.org/linux-file-hierarchy-structure/
