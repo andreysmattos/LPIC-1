@@ -37,7 +37,8 @@ exit command in linux is used to exit the shell where it is currently running.
 
 # Command: `cd`
 The `cd` (change directory) is pretty simple. It permits you t switch directories from one to anohter via terminal
-- `~`: It always point to the home directory
+- `~`: It always point to the home directory. Diferentes ways to go home: `cd`, `cd ~`, `cd $HOME`, `cd /home/username` 
 - `.`: It represent the current working directory.
 - `..`: It represents back to the parent directory
 - `-`: It quickly gets back to your last working directory and prints the directory path.
+
