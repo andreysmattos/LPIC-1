@@ -58,3 +58,25 @@ Profissonal: DEV
 ```
 
 ---
+### Command `tail`:
+
+Print the last 10 lines of each file to the standard output.
+
+```
+$ tail file_name
+``
+
+1. Change number of lines
+```
+$ tail -n 15 file_name
+```
+
+```
+$ tail -15 file_name
+```
+
+2. Monitor the file for changes and continuously output new data written to the end of the file.
+```
+$ tail -f file_name
+```
+
