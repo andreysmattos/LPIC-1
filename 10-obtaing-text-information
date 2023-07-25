@@ -1,0 +1,23 @@
+# Obtaining text file information
+
+
+### Command: `wc`:
+`wc`stands for **word count**.
+- It is used to find out number of lines, word count, byte and character count in the files specified in the file arguments.
+
+File:
+```
+Nome: Andrey Mattos
+Idade: 28
+Cidade: Novo Hamburgo
+Profissonal: DEV
+```
+
+```
+$ wc file3.txt 
+ 4 10 69 file3.txt
+```
+- Column 1: Lines
+- Column 2: Words
+- Column 3: Bytes
+- Column 4: File name
